@@ -2,8 +2,8 @@
 // Objetivo: Ler arquivo de texto, contar frequência de palavras e exibir as 5 mais frequentes
 // Linguagem de Scripting: JavaScript (Node.js)
 
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
 
 /**
  * Lê um arquivo de texto
