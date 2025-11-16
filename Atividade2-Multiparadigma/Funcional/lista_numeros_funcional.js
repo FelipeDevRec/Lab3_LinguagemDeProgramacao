@@ -37,3 +37,6 @@ const exibirResultados = (nums) => {
   console.log(`Média: ${media.toFixed(2)}`);
   console.log('='.repeat(50));
 };
+
+// Executar função principal
+exibirResultados(numeros);
