@@ -29,7 +29,7 @@ def get_top_words(word_freq, top_n=5):
     return word_freq.most_common(top_n)
 
 def main():
-    filename = "sample_text.txt"
+    filename = "Atividade1-Scripting\python\sample_text.txt"
     
     # Ler arquivo
     text = read_text_file(filename)

@@ -1,0 +1,10 @@
+ANÁLISE DE FREQUÊNCIA DE PALAVRAS
+==================================================
+
+Top 5 Palavras Mais Frequentes:
+--------------------------------------------------
+1. 'python': 6 vezes (10.00%)
+2. 'e': 5 vezes (8.33%)
+3. 'é': 3 vezes (5.00%)
+4. 'de': 3 vezes (5.00%)
+5. 'uma': 2 vezes (3.33%)
