@@ -1,0 +1,14 @@
+{
+  "name": "word-frequency",
+  "version": "1.0.0",
+  "description": "Word frequency analyzer using scripting approach",
+  "main": "word_frequency.js",
+  "type": "module",
+  "scripts": {
+    "start": "node word_frequency.js",
+    "dev": "node word_frequency.js"
+  },
+  "keywords": ["scripting", "word-frequency", "text-processing"],
+  "author": "Felipe Alves",
+  "license": "ISC"
+}
