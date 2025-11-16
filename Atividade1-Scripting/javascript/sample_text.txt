@@ -1,0 +1,5 @@
+Python é uma linguagem de programação versátil e poderosa. Python é amplamente utilizada 
+em data science, inteligência artificial e desenvolvimento web. A comunidade Python 
+é uma das maiores e mais ativas comunidades de programação. Python oferece simplicidade 
+e legibilidade de código. Muitos programadores escolhem Python pela sua sintaxe clara 
+e recursos robustos. Python continua crescendo em popularidade ano após ano.
